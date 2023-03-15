@@ -1,0 +1,1 @@
+C:\Users\lauri\IdeaProjects\Parcial2\build\classes\kotlin\main\Alcancia.class;C:\Users\lauri\IdeaProjects\Parcial2\build\classes\kotlin\main\MainKt.class
